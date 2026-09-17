@@ -111,7 +111,6 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify Material Dashboard](https://github.com/creativetimofficial/vuetify-material-dashboard)
 - [Sneat Vuetify NuxtJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-nuxtjs-admin-template/) - Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.
 
-
 ## ⌨️ Contribute
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository to your own GitHub account and then [clone](https://help.github.com/articles/cloning-a-repository/) it to your local device.
