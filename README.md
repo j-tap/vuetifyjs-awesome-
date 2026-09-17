@@ -112,8 +112,6 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Sneat Vuetify NuxtJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-nuxtjs-admin-template/) - Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.
 - [Vuetiwatch](https://github.com/j-tap/vuetiwatch) - Nineteen free, plug-and-play themes for Vuetify 4 — what Bootswatch is to Bootstrap, with a [live preview](https://j-tap.github.io/vuetiwatch/) of every theme ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white)
 
-
-
 ## ⌨️ Contribute
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository to your own GitHub account and then [clone](https://help.github.com/articles/cloning-a-repository/) it to your local device.
